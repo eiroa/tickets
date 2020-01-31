@@ -1,2 +1,1 @@
-# tickets
 Proyecto tickets
